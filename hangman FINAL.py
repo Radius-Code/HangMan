@@ -1,21 +1,3 @@
-'''hacer que el programa almacene en una variable la _ self.y la sustituya por self.letras cuando al presionar una letra coincida esta
- con otra de la palabra establecida. Esta palabra se establecerá de manera random a partir de un diccionario de palabras. cuando
- la letra seleccionada no coincida con ninguna de la palabra, la imagen cambiará por la siguiente (hang0, por hang1.. self.y así 
- conforme nos equivoquemos al pulsar una letra) 
- segun la ificultad cambiara el numero de self.letras
-
- 	-el programa sugerirá pistas de self.letras (crear funcion pistas self.y un boton al lado para sugerirla, además de una opcion en la 
- 	barra de menu)
-
-hacer modo por tematicas
-multijugador: que uno se encargue de poner la palabra
-
-que ponga el numero de intentos que quedan
-poner que muestre la palabra completa cuando pierdas
- '''
-
-
-
 import random
 from random import *
 from io import open
